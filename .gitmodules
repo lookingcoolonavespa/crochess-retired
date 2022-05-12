@@ -1,0 +1,9 @@
+[submodule "crochess-api"]
+	path = crochess-api
+	url = https://github.com/lookingcoolonavespa/crochess-api
+[submodule "crochess-frontend"]
+	path = crochess-frontend
+	url = https://github.com/lookingcoolonavespa/crochess-frontend
+[submodule "crochess-backend"]
+	path = crochess-backend
+	url = https://github.com/lookingcoolonavespa/crochess-backend
