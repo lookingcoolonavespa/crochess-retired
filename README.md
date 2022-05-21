@@ -5,8 +5,6 @@ live: https://crochess-frontend.herokuapp.com/
 
 ![screenshot of home page](https://i.postimg.cc/GhjsvD7h/Screenshot-from-2022-05-13-12-55-15.png)
 
-![screenshot of game list](https://i.postimg.cc/kXCbVsyp/Screenshot-from-2022-05-13-15-31-15.png)
-
 croChess is a free online chess game server that lets you play against your friends in realtime. 
 
 croChess-backend is written in Typescript, runs in [Node.js](https://nodejs.org/en/), and relies on the [Express](https://expressjs.com/) framework.
