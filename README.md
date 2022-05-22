@@ -15,3 +15,6 @@ Pure chess logic is contained in the [croChess-api](https://github.com/lookingco
 
 All gamese are stored on [MongoDB](https://www.mongodb.com/). 
 
+Checkout the docs: 
+[chess logic](https://github.com/lookingcoolonavespa/crochess-api/blob/main/README.md)
+[backend](https://github.com/lookingcoolonavespa/crochess-backend)
