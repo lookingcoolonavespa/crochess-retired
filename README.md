@@ -1,7 +1,7 @@
 # crochess
 live: https://crochess-frontend.herokuapp.com/
 
-![screenshot of active game](https://i.postimg.cc/FzRC23YN/Screenshot-from-2022-05-13-19-36-47.png)
+![screenshot of active game](https://i.postimg.cc/26nMHfwr/Screenshot-from-2022-05-22-16-45-03.png)
 
 ![screenshot of home page](https://i.postimg.cc/GhjsvD7h/Screenshot-from-2022-05-13-12-55-15.png)
 
