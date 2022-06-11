@@ -13,7 +13,7 @@ The [frontend](https://github.com/lookingcoolonavespa/crochess-frontend/tree/58f
 
 Pure chess logic is contained in the [croChess-api](https://github.com/lookingcoolonavespa/crochess-api) submodule.
 
-All gamese are stored on [MongoDB](https://www.mongodb.com/). 
+All games are stored on [MongoDB](https://www.mongodb.com/). 
 
 Checkout the docs: 
 - [chess logic](https://github.com/lookingcoolonavespa/crochess-api/blob/main/README.md)
