@@ -1,5 +1,5 @@
 # crochess
-live: https://crochess-frontend.herokuapp.com/
+live: http://bit.ly/3l475me
 
 ![screenshot of active game](https://i.postimg.cc/26nMHfwr/Screenshot-from-2022-05-22-16-45-03.png)
 
